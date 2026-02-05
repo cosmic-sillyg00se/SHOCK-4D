@@ -1,2 +1,2 @@
 #SHOCK 4D
-(2/4/2026) WIth the help of HATSUNE MIKU we are GONG to make this datalogger work! It has no fancy features apart from a potental servo controller expansion, an…
+(2/4/2026) WIth the help of HATSUNE MIKU we are GONG to make this datalogger work! It has no fancy features apart from a potental servo controller expansion, and is otherwise just a boring datalogger that I designed very very carefully to get something working at least... (four layers probably wasn't necesary for this but I really wanted to be safe...
